@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Kintsugi0217">
-    <img src="./assets/intro.svg" alt="Hi, I'm Kintsugi — Incoming Multimodal LLM Algorithm Engineer at TTS" width="100%" />
+    <img src="./assets/intro.svg" alt="Hi, I'm Kintsugi — Multimodal LLM Algorithm Engineer at TTS" width="100%" />
   </a>
 </p>
 
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <b>Incoming Multimodal LLM Algorithm Engineer @ TTS</b><br />
+  <b>Multimodal LLM Algorithm Engineer @ TTS</b><br />
   Multimodal Applications · Model SFT / RL · Prompt Design · Agent Systems
 </p>
 
@@ -19,15 +19,13 @@
 
 ## About Me
 
-I'll be joining **TTS** as a **Multimodal LLM Algorithm Engineer**.
-
-即将入职 **TTS**，担任**多模态大模型算法工程师**。
+I'm a **Multimodal LLM Algorithm Engineer** at **TTS**.
 
 I'm interested in turning multimodal models into useful applications: adapting models to a task, designing how they are prompted, and connecting them with tools in agent systems.
 
 My current projects explore **e-commerce product understanding**, from lightweight vision-language model fine-tuning to product-tag prompt iteration. I'm also exploring **reinforcement learning for models** and **agent building and optimization**.
 
-> 从模型适配到 Agent 系统，探索多模态大模型如何解决实际问题。
+> Exploring practical multimodal applications, from model adaptation to agent systems.
 
 ## Focus Areas
 
