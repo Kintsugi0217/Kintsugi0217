@@ -1,24 +1,27 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Kintsugi — Multimodal AI, from models to agents" width="100%" />
-</p>
-
-<h1 align="center">Hi, I'm Kintsugi</h1>
-
-<p align="center">
-  Exploring practical applications of multimodal large language models.<br />
-  <b>Model SFT / RL · Prompt Design · Agent Systems</b>
+  <a href="https://github.com/Kintsugi0217">
+    <img src="./assets/intro.svg" alt="Hi, I'm Kintsugi — Incoming Multimodal LLM Algorithm Engineer at TTS" width="100%" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="#about-me">About</a> ·
-  <a href="#selected-projects">Projects</a> ·
-  <a href="#currently-exploring">Exploring</a> ·
-  <a href="https://github.com/Kintsugi0217?tab=repositories">Repositories ↗</a>
+  <a href="#selected-projects"><img src="./assets/buttons/projects.svg" alt="Selected Projects" /></a>
+  <a href="https://github.com/Kintsugi0217?tab=repositories"><img src="./assets/buttons/open-source.svg" alt="Open Source" /></a>
+  <a href="#about-me"><img src="./assets/buttons/about.svg" alt="About Me" /></a>
+</p>
+
+<p align="center">
+  <b>Incoming Multimodal LLM Algorithm Engineer @ TTS</b><br />
+  Multimodal Applications · Model SFT / RL · Prompt Design · Agent Systems
 </p>
 
 ---
 
 ## About Me
+
+I'll be joining **TTS** as a **Multimodal LLM Algorithm Engineer**.
+
+即将入职 **TTS**，担任**多模态大模型算法工程师**。
 
 I'm interested in turning multimodal models into useful applications: adapting models to a task, designing how they are prompted, and connecting them with tools in agent systems.
 
