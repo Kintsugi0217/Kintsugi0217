@@ -12,7 +12,7 @@
 
 <p align="center">
   <b>Multimodal LLM Algorithm Engineer @ TTS</b><br />
-  Multimodal Applications · Model SFT / RL · Prompt Design · Agent Systems
+  Multimodal Applications · Model SFT / RL · Multi-agent System
 </p>
 
 ---
@@ -21,11 +21,11 @@
 
 I'm a **Multimodal LLM Algorithm Engineer** at **TTS**.
 
-I'm interested in turning multimodal models into useful applications: adapting models to a task, designing how they are prompted, and connecting them with tools in agent systems.
+I'm interested in turning multimodal models into useful applications: adapting models to a task and coordinating multiple agents with tools and workflows.
 
-My current projects explore **e-commerce product understanding**, from lightweight vision-language model fine-tuning to product-tag prompt iteration. I'm also exploring **reinforcement learning for models** and **agent building and optimization**.
+My current projects explore **e-commerce product understanding**, from lightweight vision-language model fine-tuning to product-tag prompt iteration. I'm also exploring **reinforcement learning for models** and **multi-agent collaboration and optimization**.
 
-> Exploring practical multimodal applications, from model adaptation to agent systems.
+> Exploring practical multimodal applications, from model adaptation to multi-agent systems.
 
 ## Focus Areas
 
@@ -33,8 +33,7 @@ My current projects explore **e-commerce product understanding**, from lightweig
 | :--- | :--- |
 | **Multimodal Models** | Image-grounded understanding, visual question answering, and domain-specific applications. |
 | **Model SFT / RL** | Instruction-data preparation, supervised fine-tuning, and reinforcement learning for task adaptation. |
-| **Prompt Design** | Task instructions, context organization, and structured model outputs. |
-| **Agent Systems** | Building agents with tools and workflows, and improving how they complete tasks. |
+| **Multi-agent System** | Coordinating multiple agents, tools, and workflows to complete complex tasks. |
 
 ## Selected Projects
 
@@ -56,14 +55,13 @@ A lightweight experiment loop for iterating **product-tag judgement prompts**.
 - **Approach:** inspect recurring failure cases, revise prompts, and keep or roll back experimental changes.
 - **Includes:** dataset preparation, model-call adapters, and reproducible experiment outputs.
 
-`Prompt Design` `LLM Applications` `Python` `Experimentation`
+`LLM Applications` `Python` `Experimentation`
 
 ## Currently Exploring
 
 - **Multimodal applications:** connecting images, language, and domain knowledge.
 - **SFT & RL:** improving model behavior for specific tasks.
-- **Prompt design:** giving models clearer instructions and useful context.
-- **Agents:** combining models, tools, and workflows into systems that can complete tasks.
+- **Multi-agent system:** coordinating agents, tools, and workflows to complete complex tasks.
 
 ## Working With
 
